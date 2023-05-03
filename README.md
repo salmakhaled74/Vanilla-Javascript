@@ -1,2 +1,1 @@
 # Vanilla-Javascript
-# Vanilla-Javascript
